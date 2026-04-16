@@ -13,7 +13,7 @@ Email Me 👉 ✉️ **chaitra8095@gmail.com** 😊😊
 - ⚡ **Fun fact:** - I enjoy turning raw data into meaningful insights
   
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thizischaitra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chaitram1998) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Chaitra M) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chaitram8095@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thizischaitra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chaitram1998)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chaitram8095@gmail.com) 
 
 <!-- Snake Game Repo View -->
 
